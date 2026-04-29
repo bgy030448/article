@@ -1,13 +1,13 @@
 package repository;
 
 import articleProject.dto.ArticleDto;
-import articleProject.dto.CommentDto;
+import dto.CommentDto;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class ArticleRepository {
-    public static Long ariticlId = 1L;
+    public static Long ariticleId = 1L;
     public static Long commentId = 1L;
     public static List<ArticleDto> articleList = new ArrayList<>();
 
