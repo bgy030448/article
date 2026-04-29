@@ -1,5 +1,7 @@
 package view;
 
-public class ArticleView {
+import java.util.Scanner;
 
+public class ArticleView {
+    Scanner sc = new Scanner(System.in);
 }
