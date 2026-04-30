@@ -1,6 +1,6 @@
 package repository;
 
-import articleProject.dto.ArticleDto;
+import dto.ArticleDto;
 import dto.CommentDto;
 
 import java.util.ArrayList;
