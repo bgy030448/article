@@ -1,6 +1,6 @@
 package service;
 
-import articleProject.dto.ArticleDto;
+import dto.ArticleDto;
 import repository.ArticleRepository;
 
 import java.time.LocalDateTime;

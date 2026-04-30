@@ -1,4 +1,6 @@
-package articleProject.dto;
+package dto;
+
+import dto.CommentDto;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

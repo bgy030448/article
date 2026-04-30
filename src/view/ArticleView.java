@@ -1,6 +1,6 @@
 package view;
 
-import articleProject.dto.ArticleDto;
+import dto.ArticleDto;
 import dto.CommentDto;
 import repository.ArticleRepository;
 import service.ArticleService;
